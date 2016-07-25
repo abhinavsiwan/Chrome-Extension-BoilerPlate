@@ -62,7 +62,7 @@
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3 well">
                         <h2 class="text-center">Chrome Login Extension BoilerPlate</h2>
-                        <form name="form" id="formid" method="get" action="./loginBoilerplate.php">
+                        <form name="form" id="formid" method="get" action="loginBoilerplate.php">
                              <div id="form-group">
                                  <label>Website Login Address:<sup>*</sup></label>
                                  <div class="input-group">

@@ -39,7 +39,7 @@
             
             //Resets the form
             function resetForm() {
-                window.location = "./loginBoilerplate.php";
+                window.location = "./index.php";
             }
         </script>
         
